@@ -1,0 +1,51 @@
+receive
+7
+Herb's House of Spuds:4:5.0
+Spud Heaven:8:4.5
+Tuber Town:3:4.0
+Herb's House of Spuds:5:5.0
+Potato Pot:4:6.0
+Potato Pot:6:6.0
+Tuber Town:8:4.0
+report
+display
+use
+2
+display
+skip
+receive
+6
+Spud Heaven:3:4.5
+Potato Pot:4:5.0
+Tuber Town:3:4.0
+Perry's Potatoes:9:5.5
+Potato Pot:10:5.0
+SpudsRUs:3:4.0
+report
+display
+skip
+skip
+use
+1
+skip
+display
+receive
+4
+Potato Pot:3:5.0
+Potato Pot:4:5.0
+Potato Pot:5:5.0
+Potato Pot:6:5.0
+display
+skip
+use
+3
+receive
+5
+Spud Heaven:4:5.0
+Tuber Town:6:4.5
+Herb's House of Spuds:3:4.0
+Tuber Town:8:5.0
+SpudsRUs:9:4.0
+display
+report
+quit
